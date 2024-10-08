@@ -1,0 +1,57 @@
+*
+{
+    border: none;
+    padding: none;
+    margin: none;
+}
+.Bigb
+{
+    margin: 5px 5px 5px 5px;
+    border: 2px solid  rgb(210, 9, 156);;
+    height: 100vw ;
+}
+body{
+    background-color: pink;
+}
+h3{
+
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: rgb(210, 9, 156);
+}
+.con
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.main input{
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+.dos
+{
+    display: flex;
+    margin-bottom: 15px;
+    gap: 10px;
+    align-items: center;
+    height:15px;
+}
+.dos p{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    color: rgb(210, 9, 156);
+    width:400px;
+    height: 20px;
+}
+ button
+{
+    height:20px;
+    border-radius: 15%;
+}
